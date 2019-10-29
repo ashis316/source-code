@@ -1,0 +1,11 @@
+<suite name="asish" verbose="1">
+	<test name="asishtset1">
+		<classes>
+		<class name="testing.Asish"/>
+		<class name="testing.Bunty"/>
+		</classes>
+	</test>
+
+</suite>
+
+

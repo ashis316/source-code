@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="asish" duration-ms="46" started-at="2019-10-29T07:54:09Z" finished-at="2019-10-29T07:54:09Z">
+    <groups>
+    </groups>
+    <test name="asishtset1" duration-ms="46" started-at="2019-10-29T07:54:09Z" finished-at="2019-10-29T07:54:09Z">
+      <class name="buntytestng.Test2">
+        <test-method status="PASS" signature="open()[pri:0, instance:buntytestng.Test2@357246de]" name="open" duration-ms="0" started-at="2019-10-29T13:24:09Z" finished-at="2019-10-29T13:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- buntytestng.Test2 -->
+      <class name="buntytestng.Test1">
+        <test-method status="PASS" signature="open()[pri:0, instance:buntytestng.Test1@6adca536]" name="open" duration-ms="16" started-at="2019-10-29T13:24:09Z" finished-at="2019-10-29T13:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- buntytestng.Test1 -->
+      <class name="buntytestng.Test3">
+        <test-method status="PASS" signature="open()[pri:0, instance:buntytestng.Test3@6fffcba5]" name="open" duration-ms="15" started-at="2019-10-29T13:24:09Z" finished-at="2019-10-29T13:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+      </class> <!-- buntytestng.Test3 -->
+    </test> <!-- asishtset1 -->
+  </suite> <!-- asish -->
+</testng-results>
