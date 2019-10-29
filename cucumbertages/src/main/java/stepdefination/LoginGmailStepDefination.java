@@ -93,7 +93,7 @@ public class LoginGmailStepDefination {
 
 	@When("^there is social,update,forums and promostion is there or not$")
 	public void there_is_social_update_forums_and_promostion_is_there_or_not() throws Throwable {
-	   
+	  System.out.println("pass"); 
 	}
 
 }
