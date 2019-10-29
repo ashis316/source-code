@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 33,
+        "name": "verify the drafts link",
+        "description": "",
+        "id": "smoketest-of-the-gmail-page;verify-the-drafts-link",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 34,
+            "name": "click on the drafts ilink",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "is there eany msg or not",
+            "match": {},
+            "keyword": "When "
+          }
+        ],
+        "tags": [
+          {
+            "line": 32,
+            "name": "@RegreesionTest"
+          }
+        ]
+      }
+    ],
+    "name": "smoketest of the gmail page",
+    "description": "",
+    "id": "smoketest-of-the-gmail-page",
+    "keyword": "Feature",
+    "uri": "C:/Users/binayak/workspace/cucumbertages/src/main/java/features/fature.feature"
+  }
+]
