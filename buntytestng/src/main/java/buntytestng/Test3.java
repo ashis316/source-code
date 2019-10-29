@@ -7,5 +7,6 @@ public class Test3 {
 	public void open()
 	{
 		 System.out.println("this is the test3");
+		 System.out.println("this is the test3");
 	}
 }
